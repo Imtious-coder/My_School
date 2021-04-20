@@ -11,28 +11,28 @@ const Navbar = () => {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto me-5">
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks active" aria-current="page" href="#">Home</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Notice</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Classes</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Result</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Teachers</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Events</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">Best Students</a>
                         </li>
-                        <li class="nav-item me-5">
+                        <li class="nav-item me-4">
                             <a class="nav-link NavLinks" href="#">About</a>
                         </li>
 

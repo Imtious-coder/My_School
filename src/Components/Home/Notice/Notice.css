@@ -1,0 +1,8 @@
+.Notice{
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    border-left: 2px solid rgb(114, 54, 170);
+}
