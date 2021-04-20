@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.CR{
+  color: red;
+  text-decoration: none;
+}
+.CRB{
+  font-weight: bold;
+  color: red;
+  font-size: 28px;
+  text-decoration: none;
+}
+.CGB{
+  font-weight: bold;
+  color: green;
+  font-size: 22px;
+  text-decoration: none;
+}
