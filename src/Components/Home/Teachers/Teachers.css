@@ -1,0 +1,36 @@
+#Teachers{
+    color: green;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.Teachers--Card{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.Teachers--Image{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 100%;
+    border: 1px solid greenyellow;
+    transition: all .5s ease-in;
+}
+.Teachers--Image:hover{
+    width: 160px;
+    height: 160px;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    border: 1px solid green;
+}
+.Teachers--Name{
+    color: green;
+    font-weight: bold;
+    font-size: 24px;
+    transition: all .2s ease-in;
+}
+.Teachers--Name:hover{
+    color: red;
+}
