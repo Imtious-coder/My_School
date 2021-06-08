@@ -11,13 +11,13 @@ function App() {
     <Router>
       <Switch>
         <Route path="/home">
-            <Home></Home>
+            <Home />
         </Route>
         <Route path="/">
-          <Home></Home>
+          <Home />
         </Route>
         <Route path="*">
-          <Home></Home>
+          <Home />
         </Route>
       </Switch>
     </Router>
