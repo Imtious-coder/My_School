@@ -1,6 +1,6 @@
 # My_School 
 
-#### Preview[https://nervous-bohr-bb27db.netlify.app/]
+#### Preview[https://myschool-com.web.app/]
 
 ## A full stack project
 * A School Management System.
