@@ -14,7 +14,7 @@
     margin: 10px;
     border-radius: 100%;
     border: 1px solid greenyellow;
-    transition: all .5s ease-in;
+    transition: all .3s ease-in;
 }
 .Teachers--Image:hover{
     width: 160px;
