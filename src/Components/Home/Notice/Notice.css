@@ -6,3 +6,35 @@
     padding-left: 10px;
     border-left: 2px solid rgb(114, 54, 170);
 }
+
+.Notice_Details_Button {
+    padding: 3px 30px;
+    text-decoration: none;
+    outline: none;
+    color: red;
+    border: 3px solid red;
+    transition: all .3s ease-in-out;
+}
+
+.Notice_Details_Button:hover {
+    background-color: red;
+    border-radius: 25px;
+    color: white;
+}
+
+.MoreNotice_Button {
+    float: right;
+    margin-right: 8%;
+    margin-top: 20px;
+    padding: 5px 40px;
+    font-weight: 500;
+    border-radius: 3px;
+    color: green;
+    background-color: transparent;
+    border: 2px solid green;
+}
+
+.MoreNotice_Button:hover {
+    background-color: green;
+    color: white;
+}

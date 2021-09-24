@@ -34,3 +34,20 @@
 .Teachers--Name:hover{
     color: red;
 }
+
+.AllTeachers_Button {
+    float: right;
+    margin-right: 8%;
+    margin-top: 20px;
+    padding: 5px 40px;
+    font-weight: 500;
+    border-radius: 3px;
+    color: green;
+    background-color: transparent;
+    border: 2px solid green;
+}
+
+.AllTeachers_Button:hover {
+    background-color: green;
+    color: white;
+}

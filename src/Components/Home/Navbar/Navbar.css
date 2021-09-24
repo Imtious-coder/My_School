@@ -1,3 +1,12 @@
+.navbar-nav {
+    justify-content: start;
+    align-items: center;
+}
+
+.NavLinks {
+    font-size: 17px;
+}
+
 .NavLinks:hover{
     color: red!important;
     margin-top: -2px;

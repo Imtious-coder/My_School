@@ -1,6 +1,6 @@
 import React from 'react';
+import Banner from '../Banner/Banner';
 import Footer from '../Footer/Footer';
-import Images from '../Images/Images';
 import Navbar from '../Navbar/Navbar';
 import Notice from '../Notice/Notice';
 import Teachers from '../Teachers/Teachers';
@@ -8,10 +8,10 @@ import Teachers from '../Teachers/Teachers';
 const Home = () => {
     return (
         <div>
-            <Navbar></Navbar>
-            <Images></Images>
-            <Notice></Notice>
-            <Teachers></Teachers>
+            <Navbar />
+            <Banner />
+            <Notice />
+            <Teachers />
             <Footer />
         </div>
     );

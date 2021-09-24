@@ -1,0 +1,10 @@
+.Slider_Image{
+    height: 500px;
+}
+
+@media (max-width:700px) {
+    .Slider_Image{
+        height: 200px!important;
+    }
+    
+}
